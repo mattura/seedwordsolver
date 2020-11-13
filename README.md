@@ -39,5 +39,6 @@ The resulting sets of valid possible seed words are displayed in the console
 * Might just get you back your lost BTC!
 * Pretty console colours!
 
-# Suggestions?
-Comment!
+# Suggestions? Donations?
+Send testnet coins to:
+* 2NAgNuPb57EHNwkhTV7jFWAk5vDkAyuHQ1s
