@@ -4,6 +4,9 @@ One word given may be invalid or missing. All possible candidates will be shown.
 
 This code runs offline (*see requirements first)
 
+NOTE: There is an extensively updated version of this script, with HEAPS of new features, faster, better, etc. 
+The updated version is available on request only (raise an issue to get my attention!)
+
 # Use this code:
 * If you have 11 out of 12, or 23 out of 24 seed words and need to find the missing one
 * AND you do not have the patience to type 24 words, up to 2048 times into your hardware wallet
